@@ -1,0 +1,7 @@
+.InformationComponent{
+    width: 80%;
+    height: 80%;
+    margin-inline: 25px;
+    display: flex;
+    flex-direction: column;
+}

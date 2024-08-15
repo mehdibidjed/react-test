@@ -1,0 +1,7 @@
+.Statistic{
+    border: 1px solid ;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

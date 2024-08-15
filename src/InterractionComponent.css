@@ -1,0 +1,11 @@
+.Interraction{
+    height: 28%;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+}
+#Interruct{
+    width: 35%;
+    border: 1px solid;
+    text-align: center;
+}
