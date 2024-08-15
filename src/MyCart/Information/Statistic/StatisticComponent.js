@@ -1,5 +1,5 @@
 import './StatisticComponent.css';
-
+//This file contains the component of  statistic ( articles, follower and Rating)
 export default function StatisticComponent({ Name, Value }) {
     
     return (

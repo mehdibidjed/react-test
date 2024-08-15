@@ -1,5 +1,5 @@
 import './NameComponent.css'
-
+//This file contains the component of  The name 
 export default function Name(props){
 
     return (

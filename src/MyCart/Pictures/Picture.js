@@ -1,5 +1,5 @@
 import './Picture.css'
-import MyImg from "./Pictures/MyUser.png"
+//This file contains the component of the picture
 export default function Picture(props) {
     return (
         <div className="Picture">

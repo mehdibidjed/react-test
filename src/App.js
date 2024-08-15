@@ -1,6 +1,6 @@
 import './App.css';
-import Container from './Container';
-import { Users } from './data'; 
+import Container from './MyCart/Container';
+import { Users } from './MyCart/dao/data';
 function App() {
   return (
     <div className="App">
